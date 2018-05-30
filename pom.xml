@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.michalszynkiewicz.demo</groupId>
-  <artifactId>foo-pre-demo</artifactId>
-  <version>1.0</version>
+  <artifactId>foo-demo</artifactId>
+  <version>1.0.1</version>
 
   <licenses>
     <license>
